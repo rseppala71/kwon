@@ -1,0 +1,11 @@
+{
+  "name": "KATKWONDO",
+  "symbol": "KWON",
+  "description": "A Bloodsport Meme Side Kicking His Way To Coinmarketcap TOP 10!",
+  "image": "https://raw.githubusercontent.com/rseppala71/kwon/main/katkwondo.png",
+  "extensions": {
+    "website": "https://www.katkwondo.xyz/",
+    "twitter": "https://twitter.com/katkwondojo",
+    "telegram": "https://t.me/katkwondo"
+  }
+}
